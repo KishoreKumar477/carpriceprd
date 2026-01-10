@@ -1,0 +1,10 @@
+2026-01-10 14:51:09,993 | INFO | __main__ | Application started
+2026-01-10 14:51:09,996 | INFO | src.train | Starting model training
+2026-01-10 14:51:09,997 | INFO | src.train | Model training completed
+2026-01-10 14:51:14,585 | INFO | src.predict | Prediction request received: {'Year': 2018, 'Present_Price': 6.5, 'Kms_Driven': 35000, 'Fuel_Type': 0, 'Seller_Type': 1, 'Transmission': 0, 'Owner': 0}
+2026-01-10 14:51:14,586 | INFO | src.predict | Prediction made successfully: 4.817936664622152
+2026-01-10 14:57:20,675 | INFO | __main__ | Application started
+2026-01-10 14:57:20,679 | INFO | src.train | Starting model training
+2026-01-10 14:57:20,682 | INFO | src.train | Model training completed
+2026-01-10 14:57:29,343 | INFO | src.predict | Prediction request received: {'Year': 2018, 'Present_Price': 6.5, 'Kms_Driven': 35000, 'Fuel_Type': 0, 'Seller_Type': 1, 'Transmission': 0, 'Owner': 0}
+2026-01-10 14:57:29,345 | INFO | src.predict | Prediction made successfully: 4.817936664622152

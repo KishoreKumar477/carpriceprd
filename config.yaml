@@ -1,0 +1,14 @@
+data:
+  path: "/Users/kishorekumar/Desktop/carpriceprd/car data.csv"
+
+train:
+  test_size: 0.1
+  random_state: 2
+
+model:
+  type: "linear_regression"
+
+features:
+  target: "Selling_Price"
+  drop_columns:
+    - "Car_Name"
