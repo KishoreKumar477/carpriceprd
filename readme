@@ -1,0 +1,29 @@
+# 🚗 Car Price Prediction ML Project
+
+This project predicts the selling price of a car using Machine Learning.
+
+## 📂 Project Structure
+
+carpriceprd/
+│
+├── src/
+│   ├── train.py
+│   ├── evaluate.py
+│   ├── predict.py
+│   ├── preprocessing.py
+│   └── ...
+│
+├── cards/
+│   └── car data.csv
+│
+├── config.yaml
+├── main.py
+└── requirements.txt
+
+## ⚙️ How to Run
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python main.py
