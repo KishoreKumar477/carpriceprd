@@ -1,6 +1,7 @@
 from sklearn.model_selection import train_test_split    
 from sklearn.linear_model import LinearRegression
 from src.logger import get_logger
+import joblib
 logger = get_logger(__name__)
 def train_model(df,test_size=0.1,random_state=42):
     logger.info("Starting model training")
@@ -14,6 +15,7 @@ def train_model(df,test_size=0.1,random_state=42):
    
     model.fit(X_train, y_train)
     logger.info("Model training completed")
+    joblib.dump(model, "model.pkl")
  
 
     return model,X_test,y_test

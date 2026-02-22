@@ -8,3 +8,55 @@
 2026-01-10 14:57:20,682 | INFO | src.train | Model training completed
 2026-01-10 14:57:29,343 | INFO | src.predict | Prediction request received: {'Year': 2018, 'Present_Price': 6.5, 'Kms_Driven': 35000, 'Fuel_Type': 0, 'Seller_Type': 1, 'Transmission': 0, 'Owner': 0}
 2026-01-10 14:57:29,345 | INFO | src.predict | Prediction made successfully: 4.817936664622152
+2026-02-21 23:24:01,912 | INFO | __main__ | Application started
+2026-02-21 23:25:32,368 | INFO | __main__ | Application started
+2026-02-21 23:27:32,466 | INFO | __main__ | Application started
+2026-02-21 23:27:32,471 | INFO | src.train | Starting model training
+2026-02-21 23:27:32,485 | INFO | src.train | Model training completed
+2026-02-21 23:27:35,942 | INFO | src.predict | Prediction request received: {'Year': 2018, 'Present_Price': 6.5, 'Kms_Driven': 35000, 'Fuel_Type': 0, 'Seller_Type': 1, 'Transmission': 0, 'Owner': 0}
+2026-02-21 23:27:35,943 | INFO | src.predict | Prediction made successfully: 4.817936664622152
+2026-02-21 23:30:48,677 | INFO | __main__ | Application started
+2026-02-21 23:30:48,679 | INFO | src.train | Starting model training
+2026-02-21 23:30:48,681 | INFO | src.train | Model training completed
+2026-02-21 23:30:51,609 | INFO | src.predict | Prediction request received: {'Year': 2018, 'Present_Price': 6.5, 'Kms_Driven': 35000, 'Fuel_Type': 0, 'Seller_Type': 1, 'Transmission': 0, 'Owner': 0}
+2026-02-21 23:30:51,611 | INFO | src.predict | Prediction made successfully: 4.817936664622152
+2026-02-21 23:48:24,411 | INFO | __main__ | Application started
+2026-02-21 23:48:24,415 | INFO | src.train | Starting model training
+2026-02-21 23:48:24,418 | INFO | src.train | Model training completed
+2026-02-21 23:48:26,861 | INFO | src.predict | Prediction request received: {'Year': 2018, 'Present_Price': 6.5, 'Kms_Driven': 35000, 'Fuel_Type': 0, 'Seller_Type': 1, 'Transmission': 0, 'Owner': 0}
+2026-02-21 23:48:26,863 | INFO | src.predict | Prediction made successfully: 4.817936664622152
+2026-02-21 23:58:57,879 | INFO | __main__ | Application started
+2026-02-21 23:58:57,884 | INFO | src.train | Starting model training
+2026-02-21 23:58:57,889 | INFO | src.train | Model training completed
+2026-02-22 00:01:10,530 | INFO | __main__ | Application started
+2026-02-22 00:01:10,533 | INFO | src.train | Starting model training
+2026-02-22 00:01:10,535 | INFO | src.train | Model training completed
+2026-02-22 00:02:13,207 | INFO | __main__ | Application started
+2026-02-22 00:02:13,210 | INFO | src.train | Starting model training
+2026-02-22 00:02:13,211 | INFO | src.train | Model training completed
+2026-02-22 00:06:37,534 | INFO | __main__ | Application started
+2026-02-22 00:06:37,536 | INFO | src.train | Starting model training
+2026-02-22 00:06:37,538 | INFO | src.train | Model training completed
+2026-02-22 00:10:43,208 | INFO | __main__ | Application started
+2026-02-22 00:10:43,210 | INFO | src.train | Starting model training
+2026-02-22 00:10:43,211 | INFO | src.train | Model training completed
+2026-02-22 00:20:40,701 | INFO | __main__ | Application started
+2026-02-22 00:20:40,704 | INFO | src.train | Starting model training
+2026-02-22 00:20:40,705 | INFO | src.train | Model training completed
+2026-02-22 00:23:19,463 | INFO | __main__ | Application started
+2026-02-22 00:23:19,465 | INFO | src.train | Starting model training
+2026-02-22 00:23:19,466 | INFO | src.train | Model training completed
+2026-02-22 00:36:39,564 | INFO | __main__ | Application started
+2026-02-22 00:36:39,567 | INFO | src.train | Starting model training
+2026-02-22 00:36:39,568 | INFO | src.train | Model training completed
+2026-02-22 00:37:44,695 | INFO | __main__ | Application started
+2026-02-22 00:37:44,697 | INFO | src.train | Starting model training
+2026-02-22 00:37:44,699 | INFO | src.train | Model training completed
+2026-02-22 00:38:29,432 | INFO | __main__ | Application started
+2026-02-22 00:38:29,435 | INFO | src.train | Starting model training
+2026-02-22 00:38:29,436 | INFO | src.train | Model training completed
+2026-02-22 17:31:43,990 | INFO | __main__ | Application started
+2026-02-22 17:31:43,996 | INFO | src.train | Starting model training
+2026-02-22 17:31:43,999 | INFO | src.train | Model training completed
+2026-02-22 17:31:45,729 | INFO | src.predict | Prediction request received: {'Year': 2018, 'Present_Price': 6.5, 'Kms_Driven': 35000, 'Fuel_Type': 0, 'Seller_Type': 1, 'Transmission': 0, 'Owner': 0}
+2026-02-22 17:31:45,731 | INFO | src.predict | Prediction made successfully: 4.817936664622152
