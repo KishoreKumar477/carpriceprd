@@ -22,6 +22,13 @@ carpriceprd/
 ├── model.pkl            # Trained model
 ├── requirements.txt
 └── README.md
+
+
+## 📸 Web App Preview
+
+![Web App Screenshot](webapp.png)
+
+
 ## ⚙️ How to Run
 ## clone to use
 git clone https://github.com/KishoreKumar477/carpriceprd.git
