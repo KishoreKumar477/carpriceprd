@@ -19,24 +19,27 @@ The objective is to build a clean, scalable ML project structure similar to indu
 🏗️ Project Architecture
 
 ```carpriceprd/
-│
-├── src/
-│   ├── config_loader.py      # Load YAML configuration
-│   ├── data_loader.py        # Load dataset
-│   ├── preprocessing.py      # Feature encoding & transformation
-│   ├── train.py              # Model training logic
-│   ├── evaluate.py           # Model evaluation (R²)
-│   ├── predict.py            # Prediction function
-│   └── logger.py             # Logging configuration
-│
-├── app.py                    # Streamlit Web Application
-├── main.py                   # Pipeline entry point
-├── config.yaml               # Configuration file
-├── car data.csv              # Dataset
-├── requirements.txt          # Project dependencies
+carpriceprd/
+├── src/              # Core ML modules
+├── app.py            # Streamlit web application
+├── main.py           # Training pipeline entry point
+├── config.yaml       # Configuration settings
+├── car data.csv      # Dataset
+├── requirements.txt  # Dependencies
 └── README.md
-```
 
+
+```
+```
+src/ Modules
+	•	config_loader.py – Loads YAML configuration
+	•	data_loader.py – Loads dataset
+	•	preprocessing.py – Feature encoding & transformations
+	•	train.py – Model training logic
+	•	evaluate.py – Model evaluation (R² score)
+	•	predict.py – Prediction function
+	•	logger.py – Logging setup
+```
 ⚙️ Machine Learning Workflow
 
 1️⃣ Configuration Management
