@@ -18,7 +18,7 @@ The objective is to build a clean, scalable ML project structure similar to indu
 
 🏗️ Project Architecture
 
-'''carpriceprd/
+```carpriceprd/
 │
 ├── src/
 │   ├── config_loader.py      # Load YAML configuration
@@ -35,7 +35,7 @@ The objective is to build a clean, scalable ML project structure similar to indu
 ├── car data.csv              # Dataset
 ├── requirements.txt          # Project dependencies
 └── README.md
-'''
+```
 
 ⚙️ Machine Learning Workflow
 
