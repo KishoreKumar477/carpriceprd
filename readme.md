@@ -24,9 +24,11 @@ carpriceprd/
 └── README.md
 
 
-## 📸 Web App Preview
+## 📸 Web Application Preview
 
-![Web App Screenshot](webapp.png)
+<p align="center">
+  <img src="webapp.png" width="850">
+</p>
 
 ## ⚙️ How to Run
 ## clone to use
