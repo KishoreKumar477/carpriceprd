@@ -7,22 +7,21 @@ This project predicts the selling price of a car using Machine Learning.
 carpriceprd/
 │
 ├── src/
-│   ├── config_loader.py
-│   ├── data_loader.py
-│   ├── preprocessing.py
-│   ├── train.py
-│   ├── evaluate.py
-│   ├── predict.py
-│   ├── logger.py
+│   ├── config_loader.py      # Loads configuration
+│   ├── data_loader.py        # Loads dataset
+│   ├── preprocessing.py      # Feature encoding
+│   ├── train.py              # Model training
+│   ├── evaluate.py           # Model evaluation
+│   ├── predict.py            # Prediction logic
+│   └── logger.py             # Logging setup
 │
-├── app.py               # Streamlit Web App
-├── main.py              # Pipeline entry point
-├── config.yaml          # Configuration file
-├── car data.csv         # Dataset
-├── model.pkl            # Trained model
-├── requirements.txt
+├── app.py                    # Streamlit Web App
+├── main.py                   # Pipeline entry point
+├── config.yaml               # Configuration file
+├── car data.csv              # Dataset
+├── model.pkl                 # Trained model
+├── requirements.txt          # Dependencies
 └── README.md
-
 
 ## 📸 Web Application Preview
 
