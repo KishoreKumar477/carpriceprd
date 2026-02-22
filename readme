@@ -7,21 +7,25 @@ This project predicts the selling price of a car using Machine Learning.
 carpriceprd/
 │
 ├── src/
+│   ├── config_loader.py
+│   ├── data_loader.py
+│   ├── preprocessing.py
 │   ├── train.py
 │   ├── evaluate.py
 │   ├── predict.py
-│   ├── preprocessing.py
-│   └── ...
+│   ├── logger.py
 │
-├── cards/
-│   └── car data.csv
-│
-├── config.yaml
-├── main.py
-└── requirements.txt
-
+├── app.py               # Streamlit Web App
+├── main.py              # Pipeline entry point
+├── config.yaml          # Configuration file
+├── car data.csv         # Dataset
+├── model.pkl            # Trained model
+├── requirements.txt
+└── README.md
 ## ⚙️ How to Run
-
+## clone to use
+git clone https://github.com/KishoreKumar477/carpriceprd.git
+cd carpriceprd
 ```bash
 python -m venv .venv
 source .venv/bin/activate
