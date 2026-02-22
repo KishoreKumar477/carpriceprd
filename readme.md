@@ -101,7 +101,8 @@ python main.py
 5️⃣ Run Web App
 streamlit run app.py
 
-```Model Information
+```
+Model Information
 	•	Algorithm: Linear Regression
 	•	Evaluation Metric: R² Score
 	•	Libraries: Pandas, NumPy, Scikit-Learn, Streamlit
